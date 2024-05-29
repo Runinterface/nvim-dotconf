@@ -1,0 +1,18 @@
+{
+  "lazy.nvim": { "branch": "main", "commit": "24fa2a97085ca8a7220b5b078916f81e316036fd" },
+  "mini.comment": { "branch": "main", "commit": "081bf6876eedaeffd85544752f82c18454694238" },
+  "mini.completion": { "branch": "main", "commit": "b7f4971ffc0e042f02f90c14ddceeb0e6472904b" },
+  "mini.cursorword": { "branch": "main", "commit": "b6fb7e8556b3e3bb09c5cca1937d8e542f8a0261" },
+  "mini.indentscope": { "branch": "main", "commit": "f0d7faa064c892b96997810afcddfadc3f2a15b3" },
+  "mini.notify": { "branch": "main", "commit": "2d506633f50bd61b1041aa4a6d62e0fe0e6ae09e" },
+  "mini.nvim": { "branch": "main", "commit": "b0b435873375c4341f2ecbcb95e9e645abe0d679" },
+  "mini.pairs": { "branch": "main", "commit": "40261dfcec7623cd57be3c3beb50fa73f2650cdf" },
+  "mini.starter": { "branch": "main", "commit": "3c6ed3caaadef35291e98f0701038254ee1e78b0" },
+  "mini.trailspace": { "branch": "main", "commit": "f43e2dff55a07e0a84c01ba4b25ed976a12eea44" },
+  "neoconf.nvim": { "branch": "main", "commit": "4e204e0d423e70293b81ba1655ed17e1f3c97986" },
+  "neodev.nvim": { "branch": "main", "commit": "ce9a2e8eaba5649b553529c5498acb43a6c317cd" },
+  "nvim-tree.lua": { "branch": "master", "commit": "2bc725a3ebc23f0172fb0ab4d1134b81bcc13812" },
+  "nvim-web-devicons": { "branch": "master", "commit": "b77921fdc44833c994fdb389d658ccbce5490c16" },
+  "tokyonight.nvim": { "branch": "main", "commit": "0fae425aaab04a5f97666bd431b96f2f19c36935" },
+  "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" }
+}
