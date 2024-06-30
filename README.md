@@ -7,7 +7,7 @@
 
 color scheme: `tokyonight-moon`
 
-![screen](https://raw.githubusercontent.com/Runinterface/nvim-dotconfig/main/pic/screen.png)
+![screen](https://raw.githubusercontent.com/Runinterface/nvim-dotconf/main/pic/screen.png)
 
 
 
