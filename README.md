@@ -1,7 +1,13 @@
 # Nvim my default configuration.
 
+### Requirements:
+`Nerd Fonts`<br>
 
-```
-Nerd Fonts.
+### Visual:
 
-```
+color scheme: `tokyonight-moon`
+
+![screen](https://raw.githubusercontent.com/Runinterface/nvim-dotconfig/main/pic/screen.png)
+
+
+
