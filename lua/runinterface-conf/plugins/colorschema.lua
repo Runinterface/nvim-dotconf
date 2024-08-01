@@ -27,7 +27,7 @@ return {
 					-- do nothing
 				end,
 			})
-			vim.cmd.colorscheme("tokyonight-moon")
+			vim.cmd.colorscheme("tokyonight-night")
 		end
 	},
 }
