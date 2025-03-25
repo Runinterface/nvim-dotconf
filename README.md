@@ -5,7 +5,7 @@
 
 ### Visual:
 
-color scheme: `tokyonight-moon`
+color scheme: `dogrun`
 
 ![screen](https://raw.githubusercontent.com/Runinterface/nvim-dotconf/main/pic/screen.png)
 

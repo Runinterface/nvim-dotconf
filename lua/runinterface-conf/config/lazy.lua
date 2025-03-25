@@ -14,7 +14,7 @@ require("lazy").setup({
     version = false,
   },
   install = {
-    colorscheme = { "tokyonight-moon" }
+    colorscheme = { "dogrun" }
   },
   checker = { enabled = true },
     performance = {

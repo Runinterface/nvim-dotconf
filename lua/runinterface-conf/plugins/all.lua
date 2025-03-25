@@ -5,6 +5,11 @@ return {
     version = false
   },
   {
+    'wadackel/vim-dogrun',
+    event = "VimEnter",
+    version = false
+  },
+  {
     'echasnovski/mini.starter',
     event = "VimEnter",
     version = false,
