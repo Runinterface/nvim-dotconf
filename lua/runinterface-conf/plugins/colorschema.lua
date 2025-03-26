@@ -27,7 +27,7 @@ return {
 					-- do nothing
 				end,
 			})
-			vim.cmd.colorscheme("dogrun")
+			vim.cmd.colorscheme("tokyonight-night")
 		end
 	},
 }
